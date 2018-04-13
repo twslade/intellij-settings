@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="South/MetaFields.php" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
