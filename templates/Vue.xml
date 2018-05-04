@@ -1,0 +1,18 @@
+<templateSet group="Vue">
+  <template name="vimport-export" value="import $Name$ from '@/components/$Name$.vue'&#10;&#10;export default {&#10; components: {&#10;  $Name$&#10; },&#10;}" description="Import Vue component and include it in export default" toReformat="true" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vimport" value="import $New$ from './components/$New$.vue'" description="Import Vue component" toReformat="true" toShortenFQNames="true">
+    <variable name="New" expression="" defaultValue="&quot;New&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vimport-gsap" value="import { TimelineMax, $Ease$ } from 'gsap'" description="Import methods from GSAP" toReformat="true" toShortenFQNames="true">
+    <variable name="Ease" expression="" defaultValue="&quot;Ease&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vimport-lib" value="import { $libName$ } from '$libName$'" description="Import library" toReformat="true" toShortenFQNames="true">
+    <variable name="libName" expression="" defaultValue="&quot;libName&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
