@@ -6,6 +6,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.example" type="PLAIN_TEXT" />
       <mapping ext="psql" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
