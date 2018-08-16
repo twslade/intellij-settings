@@ -7,6 +7,7 @@
       <mapping pattern="mage---9b4_REQEST_C8A503688C8AC7F2129DF2B5A9345631" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_03C45AA64A1B517C74A396B26745EF04" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_90FB7A0F2D71E9E76410572040A544DF" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.example" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_REQEST_E711692CF5C3C81DA688E08DAAF9FE77" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_A5050915FB98A8C311FC741059461120" type="PLAIN_TEXT" />
