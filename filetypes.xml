@@ -12,6 +12,7 @@
       <mapping pattern="mage---9b4_REQEST_E711692CF5C3C81DA688E08DAAF9FE77" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_A5050915FB98A8C311FC741059461120" type="PLAIN_TEXT" />
       <mapping ext="psql" type="PLAIN_TEXT" />
+      <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
