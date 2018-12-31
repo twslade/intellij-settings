@@ -1,0 +1,15 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Dank Mono" />
+    <option name="FONT_SCALE" value="1.0833334" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="qualificationType" value="On collisions" />
+  </component>
+</application>
