@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Replace in Path...">
+        <Item>
+          <IdeaActionID>ReplaceInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+R'</ShortCut>
+          <Description>Replace in Path...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
