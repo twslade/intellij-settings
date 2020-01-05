@@ -18,6 +18,7 @@
       <mapping pattern="lib/capistrano/tasks/test.txt" type="PLAIN_TEXT" />
       <mapping pattern="mage---514_REQEST_8F49EF7D6F4859EC6481847210537DB0" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_03C45AA64A1B517C74A396B26745EF04" type="PLAIN_TEXT" />
+      <mapping pattern="outputs-00000-of-00001" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_90FB7A0F2D71E9E76410572040A544DF" type="PLAIN_TEXT" />
