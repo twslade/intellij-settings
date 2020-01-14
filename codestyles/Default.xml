@@ -1,11 +1,17 @@
 <code_scheme name="Default" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+  </yaml>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
