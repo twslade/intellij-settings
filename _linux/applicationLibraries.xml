@@ -1932,6 +1932,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/daemons-1.3.1/examples" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta23, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-0.3.0.beta23/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.3.0.beta23, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1950,6 +1969,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.3.0.beta23/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.3.0.beta23/test" />
       </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-ruby_core_source-0.10.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/debase-ruby_core_source-0.10.9/lib" />
+      </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -6873,6 +6903,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/regexp_parser-1.6.0/spec" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta21, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.8.0.beta21/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta21, RVM: ruby-2.5.1) [gem]" type="rubylib">
