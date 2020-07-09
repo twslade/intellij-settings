@@ -24,11 +24,11 @@
       <mapping ext="psql" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="deb" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
