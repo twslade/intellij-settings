@@ -8,5 +8,4 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="Pylint" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
