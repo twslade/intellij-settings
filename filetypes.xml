@@ -32,6 +32,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
