@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="serviceworker.phtml" type="JavaScript" />
       <mapping pattern="outputs-00000-of-00001" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <mapping pattern="South/MetaFields.php" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_03C45AA64A1B517C74A396B26745EF04" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_REQEST_E711692CF5C3C81DA688E08DAAF9FE77" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_1F1759C24F8FA6518CCB34A3352826D7" type="PLAIN_TEXT" />
       <mapping pattern="lib/capistrano/tasks/test.txt" type="PLAIN_TEXT" />
