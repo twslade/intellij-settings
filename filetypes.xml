@@ -26,6 +26,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="deb" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
