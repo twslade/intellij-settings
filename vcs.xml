@@ -19,4 +19,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="ENABLE_PARTIAL_CHANGELISTS" value="false" />
+  </component>
 </application>
