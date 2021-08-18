@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="*.js.hbs" type="JavaScript" />
       <mapping pattern="serviceworker.phtml" type="JavaScript" />
       <mapping pattern="outputs-00000-of-00001" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
@@ -39,6 +40,7 @@
       <mapping ext="yaml" type="YAML_EX" />
       <mapping ext="yml" type="YAML_EX" />
       <mapping ext="j2" type="YAML_EX" />
+      <removed_mapping pattern=".js.hbs" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
