@@ -3,26 +3,26 @@
     <extensionMap>
       <mapping pattern="*.js.hbs" type="JavaScript" />
       <mapping pattern="serviceworker.phtml" type="JavaScript" />
-      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_03C45AA64A1B517C74A396B26745EF04" type="PLAIN_TEXT" />
-      <mapping pattern="n98" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_90FB7A0F2D71E9E76410572040A544DF" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="lib/capistrano/tasks/test.txt" type="PLAIN_TEXT" />
-      <mapping pattern="mage---9b4_REQEST_E711692CF5C3C81DA688E08DAAF9FE77" type="PLAIN_TEXT" />
-      <mapping pattern="South/MetaFields.php" type="PLAIN_TEXT" />
-      <mapping pattern="core" type="PLAIN_TEXT" />
-      <mapping pattern="mage---514_REQEST_0F38AD96FC369A175227963D3BE44DBD" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.example" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="mage---9b4_REQEST_679C35386157378C43DB9148CCF9140D" type="PLAIN_TEXT" />
-      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_A5050915FB98A8C311FC741059461120" type="PLAIN_TEXT" />
       <mapping pattern="outputs-00000-of-00001" type="PLAIN_TEXT" />
-      <mapping pattern="mage---9b4_REQEST_C8A503688C8AC7F2129DF2B5A9345631" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="n98" type="PLAIN_TEXT" />
       <mapping pattern="mage---514_REQEST_8F49EF7D6F4859EC6481847210537DB0" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_A5050915FB98A8C311FC741059461120" type="PLAIN_TEXT" />
+      <mapping pattern="mage---514_REQEST_0F38AD96FC369A175227963D3BE44DBD" type="PLAIN_TEXT" />
+      <mapping pattern="South/MetaFields.php" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_03C45AA64A1B517C74A396B26745EF04" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_REQEST_E711692CF5C3C81DA688E08DAAF9FE77" type="PLAIN_TEXT" />
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_1F1759C24F8FA6518CCB34A3352826D7" type="PLAIN_TEXT" />
+      <mapping pattern="lib/capistrano/tasks/test.txt" type="PLAIN_TEXT" />
+      <mapping pattern="core" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_90FB7A0F2D71E9E76410572040A544DF" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_REQEST_C8A503688C8AC7F2129DF2B5A9345631" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9b4_REQEST_679C35386157378C43DB9148CCF9140D" type="PLAIN_TEXT" />
       <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
@@ -35,11 +35,11 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="YAML_EX" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern=".js.hbs" approved="true" type="JavaScript" />
+      <mapping ext="j2" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
