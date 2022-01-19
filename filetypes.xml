@@ -35,11 +35,11 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="YAML_EX" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern=".js.hbs" approved="true" type="JavaScript" />
-      <mapping ext="j2" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
