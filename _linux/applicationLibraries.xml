@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/eslint" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
