@@ -27,6 +27,7 @@
       <mapping pattern="mage---9b4_CONTAINER_GRID_MODE_PRODUCT_LIST_1F1759C24F8FA6518CCB34A3352826D7" type="PLAIN_TEXT" />
       <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
